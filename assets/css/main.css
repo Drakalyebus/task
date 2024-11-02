@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+body, html{
+    height: 100%;
+}
+body{
+    background-image: url("../images/banner2.png");
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
